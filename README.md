@@ -1,1 +1,1 @@
-# NB_distance
+# NB_dissimilarity
